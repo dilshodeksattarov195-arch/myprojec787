@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfetch",
+        "uuid": 7622095,
+        "checksum": "x4cuxh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
